@@ -1,7 +1,7 @@
 import { defineConfig } from 'vitepress';
 
 export default defineConfig({
-  base: '/POP/',                 // 🔴 VERPLICHT voor GitHub Pages
+  base: '/POP/',                 
   lang: 'nl-BE',
   title: 'POP',
   description: 'Persoonlijk Ontwikkelingsplan',
