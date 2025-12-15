@@ -12,7 +12,6 @@ export default defineConfig({
       { text: 'Actieplan', link: '/actieplan' },
       { text: 'Einddoelen', link: '/einddoelen' },
       { text: 'POP-logboek', link: '/poplogboek' },
-      { text: 'Opvolging', link: '/Opvolgingsdocument' },
       { text: 'Eindrapport', link: '/eindrapportering' },
     ],
 
@@ -24,8 +23,8 @@ export default defineConfig({
           { text: 'Actieplan', link: '/actieplan' },
           { text: 'Einddoelen', link: '/einddoelen' },
           { text: 'POP-logboek', link: '/poplogboek' },
-          { text: 'Opvolgingsdocument', link: '/Opvolgingsdocument' },
           { text: 'Eindrapportering', link: '/eindrapportering' },
+
         ],
       },
     ],

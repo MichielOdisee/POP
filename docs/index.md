@@ -2,20 +2,16 @@
 
 **Academiejaar 2025–2026**
 
----
 
 **Student:** Michiel Van de Velde  
 **Mentor:** Joris Maervoet
 
----
 
 ## Beschrijving – 28/09/2025
 
 ### Onderwerp
 
 Ik wil me verdiepen in de concepten en technieken van semantische modellering. Het doel is om te begrijpen hoe semantische modellen werken, hoe ze toegepast worden in data-infrastructuren, en hoe ik ze zelf kan gebruiken om datasets beter te structureren en te analyseren.
-
----
 
 ## Motivatie
 

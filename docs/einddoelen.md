@@ -1,5 +1,5 @@
 
-## Einddoelen (SMART en ownership-proof)
+# Einddoelen (SMART en ownership-proof)
 
 ### 1. Fundamenten begrijpen
 
