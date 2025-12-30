@@ -1,49 +1,24 @@
-# Persoonlijk ontwikkelingsplan (POP) – opvolgingsdocument
+# Interoperabiliteit & het Semantische Web
+## Linked Data, RDF, SPARQL en ontologieën
+### Introductie
 
-**Academiejaar 2025–2026**
+Het web zoals we het vandaag kennen is vooral gebouwd om **informatie te publiceren en te consumeren**, vaak gestuurd door individuele **bedrijven, platformen en applicaties**. Data is overal, maar zit meestal opgesloten in afzonderlijke systemen, waardoor **interoperabiliteit** moeilijk blijft. In deze leerstof verschuiven we de focus naar het **web voor machines**: een web waarin data niet alleen beschikbaar is, maar ook **begrepen kan worden door verschillende systemen**, zodat ze vlot met elkaar kunnen samenwerken en betekenis kunnen uitwisselen.
 
+We bouwen stap voor stap aan dat fundament met **Linked Data**, **RDF**, **SPARQL**, **OWL-ontologieën** en **semantisch modelleren**. Je leert hoe betekenis expliciet wordt vastgelegd, hoe datasets elkaar kunnen versterken via semantische relaties, en hoe je met slimme queries inzichten krijgt die met klassieke databanken moeilijk te bereiken zijn.
 
-**Student:** Michiel Van de Velde  
-**Mentor:** Joris Maervoet
-
-
-## Beschrijving – 28/09/2025
-
-### Onderwerp
-
-Ik wil me verdiepen in de concepten en technieken van semantische modellering. Het doel is om te begrijpen hoe semantische modellen werken, hoe ze toegepast worden in data-infrastructuren, en hoe ik ze zelf kan gebruiken om datasets beter te structureren en te analyseren.
-
-## Motivatie
-
-### Betrokkenheid
-
-Semantic modelling wordt behandeld in het vak Advanced Web Topics, dat ik als infra-student niet heb kunnen opnemen. Het onderwerp werd mij aangeraden door meneer Delrue en sluit sterk aan bij mijn interesse in data-infrastructuren en kennisrepresentatie.
+Deze leerstof brengt belangrijke ideeën uit verschillende boeken samen rond Linked Data, RDF, SPARQL, OWL en semantisch modelleren. Ze is opgebouwd binnen het vak **Persoonlijk Ontwikkelingsplan** aan Odisee Hogeschool en bedoeld als **toegankelijke eerste kennismaking met het semantische web**, met als doel vooral een toegankelijke intro te geven over deze concepten.
 
 ---
 
-### Grenzen verleggen
+### Bronnen & referenties
 
-Databankmodellering is een van mijn zwakkere punten binnen de opleiding. Door mij te verdiepen in semantic modelling wil ik deze zwakte ombuigen tot een sterkte en mijn inzicht in complexe datamodellen verdiepen.
+* W3C – Linked Data: [https://www.w3.org/standards/semanticweb/data](https://www.w3.org/standards/semanticweb/data)
+* RDF 1.1 Concepts: [https://www.w3.org/TR/rdf11-concepts/](https://www.w3.org/TR/rdf11-concepts/)
+* SPARQL 1.1 Overview: [https://www.w3.org/TR/sparql11-overview/](https://www.w3.org/TR/sparql11-overview/)
+* OWL 2 Web Ontology Language: [https://www.w3.org/TR/owl2-overview/](https://www.w3.org/TR/owl2-overview/)
+* Semantic Web Primer (W3C): [https://www.w3.org/2001/sw/wiki/Semantic_Web_Primer](https://www.w3.org/2001/sw/wiki/Semantic_Web_Primer)
+* https://www.snee.com/semwebmeetup/2011-09-15/SPARQLBobDuCharme.pdf
 
----
-
-### Professioneel profiel
-
-De combinatie van ontologieën, RDF en OWL versterkt niet alleen mijn databankkennis, maar ook mijn profiel als infra-student met affiniteit voor data-architectuur en kennisstructuren.
-
----
-
-## Feedback mentor – 01/10/2025
-
-- Onderwerp is geschikt en relevant
-- Graag een concrete case voor de OWL-ontologie
-- Tijdsbesteding iets uitbreiden
-- Voorstel: triplestore + SPARQL-endpoint met documentatie
-
----
-
-## Goedkeuring – 13/10/2025
-
-Goedgekeurd. Veel succes!
+*(Later aan te vullen)*
 
 ---

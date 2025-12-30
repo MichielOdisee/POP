@@ -8,22 +8,25 @@ export default defineConfig({
 
   themeConfig: {
     nav: [
-      { text: 'Home', link: '/' },
-      { text: 'Actieplan', link: '/actieplan' },
-      { text: 'Einddoelen', link: '/einddoelen' },
-      { text: 'POP-logboek', link: '/poplogboek' },
-      { text: 'Eindrapport', link: '/eindrapportering' },
+      { text: 'Introductie', link: '/' },
+      { text: 'Semantisch Web', link: '/semantischweb' }, 
+      { text: 'Linked Data', link: '/linkeddata' }, 
+      { text: 'RDF', link: '/rdf' },
+      { text: 'SPARQL', link: '/sparql' },      
+      { text: 'RDF Schema en OWL', link: '/owlenrdfschema' },
     ],
 
     sidebar: [
+      
       {
-        text: 'POP Overzicht',
+        text: 'Hoofdstuk 1',
         items: [
-          { text: 'Home', link: '/' },
-          { text: 'Actieplan', link: '/actieplan' },
-          { text: 'Einddoelen', link: '/einddoelen' },
-          { text: 'POP-logboek', link: '/poplogboek' },
-          { text: 'Eindrapportering', link: '/eindrapportering' },
+          { text: 'Introductie', link: '/' },
+          { text: 'Semantisch Web', link: '/semantischweb' },
+          { text: 'Linked Data', link: '/linkeddata' },
+          { text: 'RDF', link: '/rdf' },
+          { text: 'SPARQL', link: '/sparql' },
+          { text: 'RDF Schema en OWL', link: '/owlenrdfschema' },
 
         ],
       },
