@@ -6,6 +6,10 @@ export default defineConfig({
   title: 'Open Kennis',
   description: 'Open Kennis',
 
+  head: [
+    ['link', { rel: 'icon', type: 'image/svg+xml', href: '/favicon.svg' }],
+  ],
+
   themeConfig: {
     nav: [
       { text: 'Open Kennis', link: '/' },
@@ -31,7 +35,7 @@ export default defineConfig({
         text: 'Interoperabiliteit & het Semantische Web',
         items: [
           {
-            text: 'Introductie Interoperabiliteit & het Semantische Web ',
+            text: 'Introductie Interoperabiliteit & het Semantische Web',
             link: '/interoperabiliteit-semantisch-web/intro',
           },
           {
