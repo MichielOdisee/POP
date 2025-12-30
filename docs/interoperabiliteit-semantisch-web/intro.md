@@ -1,5 +1,5 @@
 # Interoperabiliteit & het Semantische Web
-## Linked Data, RDF, SPARQL en ontologieën
+*Linked Data, RDF, SPARQL en ontologieën*
 ### Introductie
 
 Het web zoals we het vandaag kennen is vooral gebouwd om **informatie te publiceren en te consumeren**, vaak gestuurd door individuele **bedrijven, platformen en applicaties**. Data is overal, maar zit meestal opgesloten in afzonderlijke systemen, waardoor **interoperabiliteit** moeilijk blijft. In deze leerstof verschuiven we de focus naar het **web voor machines**: een web waarin data niet alleen beschikbaar is, maar ook **begrepen kan worden door verschillende systemen**, zodat ze vlot met elkaar kunnen samenwerken en betekenis kunnen uitwisselen.

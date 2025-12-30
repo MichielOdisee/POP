@@ -1,4 +1,4 @@
-
+# SPARQL
 Querying data on your own hard drive is useful, but the real fun of SPARQL begins
 when you query public data sources. You need no special software, because these data
 collections are often made publicly available through a SPARQL endpoint, which is a

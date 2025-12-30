@@ -4,17 +4,20 @@ export default defineConfig({
   base: '/',
   lang: 'nl-BE',
   title: 'Open Kennis',
-  description: 'Gratis cursus over open data, interoperabiliteit en Linked Data',
+  description: 'Open Kennis',
 
   themeConfig: {
     nav: [
       { text: 'Open Kennis', link: '/' },
-      { text: 'Cursusintroductie', link: '/intro' },
-      { text: 'Semantisch Web', link: '/semantischweb' }, 
-      { text: 'Linked Data', link: '/linkeddata' }, 
-      { text: 'RDF', link: '/rdf' },
-      { text: 'SPARQL', link: '/sparql' },      
-      { text: 'RDF Schema en OWL', link: '/owlenrdfschema' },
+      {
+        text: 'Onderwerpen',
+        items: [
+          {
+            text: 'Interoperabiliteit & het Semantische Web',
+            link: '/interoperabiliteit-semantisch-web/intro',
+          },
+        ],
+      },
     ],
 
     sidebar: [
@@ -25,14 +28,46 @@ export default defineConfig({
         ],
       },
       {
-        text: 'Interoperabiliteit & het Semantische Web ',
+        text: 'Interoperabiliteit & het Semantische Web',
         items: [
-          { text: 'Introductie cursus', link: '/intro' },
-          { text: 'Semantisch Web', link: '/semantischweb' },
-          { text: 'Linked Data', link: '/linkeddata' },
-          { text: 'RDF', link: '/rdf' },
-          { text: 'SPARQL', link: '/sparql' },
-          { text: 'RDF Schema en OWL', link: '/owlenrdfschema' },
+          {
+            text: 'Introductie Interoperabiliteit & het Semantische Web ',
+            link: '/interoperabiliteit-semantisch-web/intro',
+          },
+          {
+            text: 'Fundamenten',
+            items: [
+              {
+                text: 'Het Semantische Web',
+                link: '/interoperabiliteit-semantisch-web/fundamenten/semantischweb',
+              },
+              {
+                text: 'Linked Data',
+                link: '/interoperabiliteit-semantisch-web/fundamenten/linkeddata',
+              },
+              {
+                text: 'RDF',
+                link: '/interoperabiliteit-semantisch-web/fundamenten/rdf',
+              },
+              {
+                text: 'SPARQL',
+                link: '/interoperabiliteit-semantisch-web/fundamenten/sparql',
+              },
+              {
+                text: 'RDF Schema en OWL',
+                link: '/interoperabiliteit-semantisch-web/fundamenten/owlenrdfschema',
+              },
+            ],
+          },
+          {
+            text: 'Verdieping',
+            items: [
+              {
+                text: 'Inleiding verdieping',
+                link: '/interoperabiliteit-semantisch-web/verdieping/',
+              },
+            ],
+          },
         ],
       },
     ],
