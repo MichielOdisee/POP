@@ -11,5 +11,4 @@ and then explore the results, making it very easy to explore its data.
 Pagina 14 Querying a Public data source
 
 
-
 Met **SPARQL** hebben we geleerd hoe we informatie uit RDF-grafen kunnen halen. Maar zodra datasets groter worden en door meerdere systemen gebruikt worden, volstaat het niet meer om enkel data op te slaan en te bevragen. We moeten ook vastleggen **wat die data betekent**. In het volgende hoofdstuk introduceren we **RDF Schema** en **OWL**, waarmee we vocabularia en ontologieën definiëren.
