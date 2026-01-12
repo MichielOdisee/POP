@@ -12,13 +12,13 @@ Deze leerstof brengt belangrijke ideeën uit verschillende boeken samen rond Lin
 
 ### Bronnen & referenties
 
-* W3C – Linked Data: [https://www.w3.org/standards/semanticweb/data](https://www.w3.org/standards/semanticweb/data)
-* RDF 1.1 Concepts: [https://www.w3.org/TR/rdf11-concepts/](https://www.w3.org/TR/rdf11-concepts/)
-* SPARQL 1.1 Overview: [https://www.w3.org/TR/sparql11-overview/](https://www.w3.org/TR/sparql11-overview/)
-* OWL 2 Web Ontology Language: [https://www.w3.org/TR/owl2-overview/](https://www.w3.org/TR/owl2-overview/)
-* Semantic Web Primer (W3C): [https://www.w3.org/2001/sw/wiki/Semantic_Web_Primer](https://www.w3.org/2001/sw/wiki/Semantic_Web_Primer)
-* https://www.snee.com/semwebmeetup/2011-09-15/SPARQLBobDuCharme.pdf
+* **W3C – Linked Data**: [https://www.w3.org/standards/semanticweb/data](https://www.w3.org/standards/semanticweb/data)
+* **RDF 1.1 Concepts**: [https://www.w3.org/TR/rdf11-concepts/](https://www.w3.org/TR/rdf11-concepts/)
+* **SPARQL 1.1 Overview**: [https://www.w3.org/TR/sparql11-overview/](https://www.w3.org/TR/sparql11-overview/)
+* **OWL 2 Web Ontology Language**: [https://www.w3.org/TR/owl2-overview/](https://www.w3.org/TR/owl2-overview/)
+* **Bob DuCharme – SPARQL (slides)**: [https://www.snee.com/semwebmeetup/2011-09-15/SPARQLBobDuCharme.pdf](https://www.snee.com/semwebmeetup/2011-09-15/SPARQLBobDuCharme.pdf)
+* **Learning SPARQL – Bob DuCharme (O’Reilly)** -> Fundamentals
+* **Semantic Web for the Working Ontologist (Second Edition) – Dean Allemang & Jim Hendler** -> Verdieping (komt later)
+* **OpenAI – ChatGPT**
+* **Ruben Verborgh – Articles**: [https://ruben.verborgh.org/articles/](https://ruben.verborgh.org/articles/)
 
-*(Later aan te vullen)*
-
----
